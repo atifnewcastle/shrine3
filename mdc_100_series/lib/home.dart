@@ -133,6 +133,7 @@ class HomePage extends StatelessWidget {
           children: _buildGridCards(context) // Replace
           ),
       // TODO: Set resizeToAvoidBottomInset (101)
+      //do something here
     );
   }
 }

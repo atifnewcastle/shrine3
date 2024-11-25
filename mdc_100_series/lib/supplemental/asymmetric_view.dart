@@ -25,6 +25,7 @@ class AsymmetricView extends StatelessWidget {
   List<Widget> _buildColumns(BuildContext context) {
     if (products.isEmpty) {
       return <Container>[];
+      //comment test
     }
 
     /// This will return a list of columns. It will oscillate between the two
